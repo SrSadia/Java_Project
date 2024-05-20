@@ -1,0 +1,10 @@
+Dhaka;Sylhet;Economy;18/05/2024;A1
+Sylhet;Dhaka;Business;19/05/2024;A2
+Chattogram;Barisal;;20/05/2024;A3
+Barisal;Chattogram;;21/05/2024;A4
+Khulna;Rajshahi;;22/05/2024;B1
+Saidpur;Cox's Bazar;;23/05/2024;B2
+Cox's Bazar;Saidpur;;24/05/2024;B3
+Rajshahi;Khulna;;25/05/2024;B4
+;Japan;;26/05/2024;C1
+Nepal;Berlin;;27/05/2024;C2
